@@ -1,0 +1,23 @@
+body {
+	color: #883387;
+	background-color: #FAFEFF;
+}
+
+h1 {
+	text-align: center;
+}
+.card {
+	color: #ffdfdf;
+	background: linear-gradient(135deg,#005699,#c833c7);
+	font-family: 'Lato',sans-serif;
+	position: relative;
+	overflow: hidden;
+	padding: 60px 30px;
+}
+p {
+	text-align: justify;
+	padding: 10px;
+}
+pad {
+	padding: 60px 30px;
+}
